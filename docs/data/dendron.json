@@ -24,7 +24,8 @@
         "vault"
       ]
     },
-    "siteUrl": "localhost:3000",
+    "assetsPrefix": "/dendronblog",
+    "siteUrl": "https://hyunahkwon.github.io",
     "usePrettyLinks": true,
     "siteNotesDir": "notes",
     "siteFaviconPath": "favicon.ico",
