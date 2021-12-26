@@ -19,6 +19,8 @@ site:
         action: useVault
         payload:
             - vault
+    assetsPrefix: /dendronblog
+    siteUrl: https://hyunahkwon.github.io
 commands:
     lookup:
         note:
