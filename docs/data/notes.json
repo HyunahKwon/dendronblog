@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1640494985986,
-      "created": 1640494985986,
+      "updated": 1640520155861,
+      "created": 1640520155861,
       "parent": null,
       "children": [],
       "data": {}
@@ -165,6 +165,7 @@
       "created": 1640490582762,
       "parent": "h685RT7HYrRVq6nEWhxem",
       "children": [
+        "Krh9G3eBUwH0OFXGCt1HU",
         "3OuUiBbMPQrxXxzSAVQ78"
       ],
       "data": {},
@@ -210,12 +211,40 @@
         }
       },
       "fname": "tool.dendron.publish",
-      "updated": 1640423542912,
+      "updated": 1640520015409,
       "created": 1640423331776,
       "parent": "UxgPerSGRE7rDJcJ2Olby",
       "children": [],
       "data": {},
-      "contentHash": "45d01b47fc2d60f1c83b25ea11aebc81",
+      "contentHash": "201e6333b3c0a9fa43d06344f1cd7903",
+      "custom": {}
+    },
+    "Krh9G3eBUwH0OFXGCt1HU": {
+      "id": "Krh9G3eBUwH0OFXGCt1HU",
+      "title": "Deployment",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "글쓰는-법": {
+          "type": "header",
+          "text": "글쓰는 법",
+          "value": "글쓰는-법",
+          "line": 7,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "fname": "tool.dendron.deployment",
+      "updated": 1640520144350,
+      "created": 1640519866322,
+      "parent": "UxgPerSGRE7rDJcJ2Olby",
+      "children": [],
+      "data": {},
+      "contentHash": "03ce4a97c9306c6599f41fb935d9778e",
       "custom": {}
     }
   },
